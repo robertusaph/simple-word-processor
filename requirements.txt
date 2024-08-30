@@ -1,0 +1,3 @@
+# Requirements for simple-word-processor.py
+
+tkinter==0.1.0  # Note: Tkinter is part of the Python standard library, so this is typically not necessary.
